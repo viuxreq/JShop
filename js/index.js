@@ -1,6 +1,7 @@
+let carrito = [];
 const Clickbutton = document.querySelectorAll('.button');
 const tbody = document.querySelector('.tbody');
-let carrito = [];
+
 
 
 
